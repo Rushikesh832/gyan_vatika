@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032053233194",
+    "project_id": "gyan-vatika",
+    "storage_bucket": "gyan-vatika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032053233194:android:eda9b691262c4a6f2e9553",
+        "android_client_info": {
+          "package_name": "com.navelsoft.gyan_vatika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032053233194-e751e35klp1ukmoqkqotc09tjoqjo7st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navelsoft.gyan_vatika",
+            "certificate_hash": "ff2fb668b599b1543bf7cc325e66eb1c3f284343"
+          }
+        },
+        {
+          "client_id": "1032053233194-r68edj9ptaqtg2bjjc97kil7f0gi2oeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navelsoft.gyan_vatika",
+            "certificate_hash": "7fbf7f1238962aebbe13810d2efc30c5a426291d"
+          }
+        },
+        {
+          "client_id": "1032053233194-ifsasmomlp70vqv9uj8ai53btushpb19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUBkz20xUT0mOIGDfjNeBl2f7b_90oC3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032053233194-ifsasmomlp70vqv9uj8ai53btushpb19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
